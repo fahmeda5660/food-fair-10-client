@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "643010e0f5a7e52ce1e8fa65",
+        "name": "Fariha Hasan",
+        "details": "Chef Julia's culinary skills were nothing short of extraordinary. From the very first bite, it was evident that her passion for food translated into a symphony of flavors on the plate. Her innovative approach to traditional dishes added a delightful twist, making each course a delightful surprise. The meticulous attention to detail in presentation made the dining experience an aesthetic delight.",
+        "rating": 3
+    },
+    {
+        "_id": "643010f9f5a7e52ce1e8fa66",
+        "name": "Nisat Sharmin",
+        "details": "Stepping into Chef Alex's restaurant felt like entering a world of culinary delights. His menu showcased a diverse range of cuisines, each dish prepared with masterful precision. The chef's signature dish, a fusion of cultural influences, was an absolute revelation, leaving our taste buds craving for more. Beyond the delectable food, Chef Alex's warmth and hospitality made the dining experience even more enjoyable. ",
+        "rating": 2
+    },
+    {
+        "_id": "6430110af5a7e52ce1e8fa67",
+        "name": "Munna Shah",
+        "details": "Chef Michael's commitment to sustainability was truly commendable. His farm-to-table philosophy was reflected in every aspect of the dining experience, from the carefully sourced ingredients to the eco-friendly practices in the kitchen. The dishes he presented were a testament to his dedication to showcasing the natural flavors of the ingredients, making every bite a celebration of simplicity and purity.",
+        "rating": 5
+    },
+    {
+        "_id": "64301123f5a7e52ce1e8fa68",
+        "name": "Rima Jannat",
+        "details": "Chef Emily's culinary expertise was an ode to classic techniques and timeless flavors. Her skillful execution of traditional recipes elevated familiar dishes to new heights, leaving us nostalgic for grandma's cooking. The chef's passion for preserving culinary heritage was evident in every dish, making it a truly heartwarming experience. Beyond the excellent food, Chef Emily's friendly demeanor. ",
+        "rating": 4
+    },
+    {
+        "_id": "6430113af5a7e52ce1e8fa69",
+        "name": "Tabassum Auny",
+        "details": "At Chef David's restaurant, culinary innovation met artistry. Each dish was a canvas, skillfully crafted with an array of colors, textures, and flavors. The creative combinations were a delightful surprise, challenging our taste buds in the best possible way. Chef David's willingness to experiment and push boundaries made dining at his establishment an exhilarating adventure.",
+        "rating": 5
+    }
+]
